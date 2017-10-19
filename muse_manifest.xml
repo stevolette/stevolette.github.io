@@ -1,0 +1,195 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="franziskart.com" resolutions="1x" timestamp="1508413898419">
+  <folder name="css">
+    <file name="site_global.css" crc="4085801442"/>
+    <file name="master_a-musters.css" crc="4212161751" ref="credo:movie:index:contact:illustration:logo"/>
+    <file name="credo.css" crc="179927205" ref="credo"/>
+    <file name="movie.css" crc="4170903946" ref="movie"/>
+    <file name="index.css" crc="123291125" ref="index"/>
+    <file name="contact.css" crc="428564829" ref="contact"/>
+    <file name="illustration.css" crc="306010712" ref="illustration"/>
+    <file name="logo.css" crc="142784030" ref="logo"/>
+  </folder>
+  <folder name="assets">
+    <file name="snippet_30fedb458.idms" crc="4013747985" seo="true" mt="1507664728000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:logo:movie:contact:illustration:credo"/>
+    <file name="museutils.js" crc="17924269" ref="index:logo:movie:contact:illustration:credo"/>
+    <file name="whatinput.js" crc="86476730" ref="index:logo:movie:contact:illustration:credo"/>
+    <file name="museconfig.js" crc="278381782" ref="index:logo:movie:contact:illustration:credo"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index:logo:movie:contact:illustration:credo"/>
+    <file name="require.js" crc="3861931657" ref="index:logo:movie:contact:illustration:credo"/>
+    <file name="webpro.js" crc="416662029" ref="logo:contact:illustration"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="logo:illustration"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="logo:illustration"/>
+    <file name="touchswipe.js" crc="432264157" ref="logo:illustration"/>
+    <file name="form_check.php" crc="4110044762" ref="contact"/>
+    <file name="form_throttle.php" crc="22190333" ref="contact"/>
+    <file name="form_process.php" crc="257545537" ref="contact"/>
+    <file name="form-u225.php" crc="3846677731" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="svg-1645641x475.svg" crc="367519998" seo="true" ref="index:logo:movie:contact:illustration:credo">
+      <caption webpage="index" alt=""/>
+      <caption webpage="logo" alt=""/>
+      <caption webpage="illustration" alt=""/>
+      <caption webpage="movie" alt=""/>
+      <caption webpage="credo" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="svg 1645641x475_poster_.png" crc="490799127" ref="index"/>
+    <file name="17308993514_43ef278236_o-crop-u1086.jpg" crc="3848225913" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="svg-256075x950.svg" crc="62471892" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="svg 256075x950_poster_.png" crc="3927641356" ref="logo"/>
+    <file name="logo-farbe84x90.jpg" crc="3857412571" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="lebensmittelrettung92x90.jpg" crc="394703753" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="bär89x90.jpg" crc="20676286" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="wildcats-with-handicaps_druck_cmyk.svg" crc="20098548" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="logo:contact:illustration"/>
+    <file name="wildcats with handicaps_druck_cmyk_poster_.png" crc="3898466762" ref="logo"/>
+    <file name="logo-farbe.jpg" crc="185488963" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="lebensmittelrettung.jpg" crc="345490248" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="bär.jpg" crc="3822910782" seo="true" ref="logo:illustration">
+      <caption webpage="logo" alt=""/>
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="logo:illustration"/>
+    <file name="svg-49288x652.svg" crc="3802422103" seo="true" ref="logo">
+      <caption webpage="logo" alt=""/>
+    </file>
+    <file name="svg 49288x652_poster_.png" crc="3776679386" ref="logo"/>
+    <file name="u3231-14.png" crc="4027396307" ref="movie"/>
+    <file name="svg-575921x651.svg" crc="292937365" seo="true" ref="movie">
+      <caption webpage="movie" alt=""/>
+    </file>
+    <file name="svg 575921x651_poster_.png" crc="3874291785" ref="movie"/>
+    <file name="svg-4610194x2716.svg" crc="300728681" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="svg 4610194x2716_poster_.png" crc="6327893" ref="contact"/>
+    <file name="u234.png" crc="3786633120" ref="contact"/>
+    <file name="u234-ferr.png" crc="4035943178" ref="contact"/>
+    <file name="u239.png" crc="4078225433" ref="contact"/>
+    <file name="u239-ferr.png" crc="4224357242" ref="contact"/>
+    <file name="u228.png" crc="179198572" ref="contact"/>
+    <file name="u228-ferr.png" crc="4167315836" ref="contact"/>
+    <file name="svg-2849322x545.svg" crc="3786691581" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="svg 2849322x545_poster_.png" crc="170723220" ref="illustration"/>
+    <file name="sonntagszimmer64x90.jpg" crc="311691203" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="lion68x90.jpg" crc="75000627" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="04967x90.jpg" crc="4123104525" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="17743982670_d400a18c6a_o120x86.jpg" crc="4165945060" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="20160125_173603120x68.jpg" crc="4186387990" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="045120x78.jpg" crc="192916355" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="xeno120x90.jpg" crc="4021761198" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="sexy horses82x90.jpg" crc="4126232775" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="11221986_875427182506066_8427682255328659570_o119x90.jpg" crc="4026568167" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="067120x87.jpg" crc="153198270" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="20140807_174458118x90.jpg" crc="156808671" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="schwarzenberg120x68.jpg" crc="484622910" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="redpandaway120x86.jpg" crc="312242169" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="sonntagszimmer.jpg" crc="3874236269" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="xeno.jpg" crc="403900324" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="sexy horses.jpg" crc="4187240197" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="lion.jpg" crc="4254791756" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="11221986_875427182506066_8427682255328659570_o.jpg" crc="4192270465" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="049.jpg" crc="4137609088" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="067.jpg" crc="4037788718" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="17743982670_d400a18c6a_o.jpg" crc="233527917" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="20140807_174458.jpg" crc="515180512" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="20160125_173603.jpg" crc="3977334137" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="schwarzenberg.jpg" crc="4155216778" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="045.jpg" crc="3836480695" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="redpandaway.jpg" crc="234612177" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="svg-429585x649.svg" crc="99363547" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="svg 429585x649_poster_.png" crc="4047036375" ref="illustration"/>
+    <file name="u3200-9.png" crc="4126122995" ref="credo"/>
+    <file name="svg-5398183x3103.svg" crc="1954625" seo="true" ref="credo">
+      <caption webpage="credo" alt=""/>
+    </file>
+    <file name="svg 5398183x3103_poster_.png" crc="4088610462" ref="credo"/>
+    <file name="svg-671423x498.svg" crc="460146163" seo="true" ref="credo">
+      <caption webpage="credo" alt=""/>
+    </file>
+    <file name="svg 671423x498_poster_.png" crc="44266882" ref="credo"/>
+  </folder>
+  <file name="index.html" crc="108153625" seo="true" mt="1508336727476" redirect="true"/>
+  <file name="logo.html" crc="3903741501" seo="true" mt="1508336727476" redirect="true"/>
+  <file name="movie.html" crc="166076143" seo="true" mt="1508336727476" redirect="true"/>
+  <file name="contact.html" crc="3881483543" seo="true" mt="1508336727476" redirect="true"/>
+  <file name="illustration.html" crc="485681993" seo="true" mt="1508336776268" redirect="true"/>
+  <file name="credo.html" crc="474733342" seo="true" mt="1508336727476" redirect="true"/>
+</manifest>
